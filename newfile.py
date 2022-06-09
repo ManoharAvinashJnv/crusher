@@ -1,4 +1,4 @@
-# Copyright (c) 2022 Hackers Colony Official
+# Copyright (c) 2022 Manohar hacker
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -18,11 +18,11 @@
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
 ###################################
-#Author  : Azhar (Team - HCO)     #
+#Author  : Manohar(Team - HCO)     #
 #Project : WaCrasher              #
 #Type    : Whatsapp - Crasher     #
 #lang    : python v3.* (py3)      #
-#Owner   : Azhar YT, Miss Praveen #
+#Owner   : Manohar Avinash.       #
 ###################################
 import os
 import colorama
